@@ -1,2 +1,2 @@
 # help-me-learn
-Build something fun, Learning some agentic
+Build something fun, learning some agentic. Be able to visualize daily check-ins.
